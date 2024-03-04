@@ -1,6 +1,3 @@
-Sure! Below is an example README.md file for your Firebase Starter project:
-
-```markdown
 # Firebase Starter
 
 Firebase Starter is a starter template for building web applications with Next.js, powered by Tailwind CSS, and enhanced with Framer Motion for elegant animations.
