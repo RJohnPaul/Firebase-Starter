@@ -2,7 +2,6 @@
 
 Firebase Starter is a starter template for building web applications with Next.js, powered by Tailwind CSS, and enhanced with Framer Motion for elegant animations.
 
-This project is ongoing and serves as a foundation for quickly setting up Firebase-powered web applications with modern frontend technologies.
 
 ## Features
 
